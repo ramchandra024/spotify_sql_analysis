@@ -17,3 +17,10 @@ This project demonstrates relational database design and analytical SQL queries 
 
 ## Tools
 PostgreSQL, pgAdmin
+
+## Key Insights from Analysis
+
+- Majority of tracks fall into the Medium duration category (~210 seconds).
+- Playlist engagement shows higher inclusion of Bollywood and Pop genres.
+- Window functions used to rank tracks by duration per artist.
+- CASE-based segmentation applied to classify song lengths.
